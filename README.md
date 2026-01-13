@@ -44,6 +44,7 @@ When you bend your fingers, the robotic fingers bend exactly the same way — si
 
 ## Repository Files
 
+STL files for the 3D-printed robotic hand, forearm, and joints are included in this repository — print them, assemble, and use fishing wire as tendons for smooth finger motion.
 
 
 **Note:** The receiver firmware is very basic and usually written separately:  
